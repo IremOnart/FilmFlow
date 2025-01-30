@@ -8,8 +8,6 @@
 import Foundation
 import UIKit
 
-import UIKit
-
 class Loader {
     static var backgroundView: UIView!
     static var loaderImage: UIImageView!

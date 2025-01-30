@@ -25,7 +25,7 @@
                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="cHs-rE-DM0">
                     <rect key="frame" x="16" y="91" width="361" height="90"/>
                     <subviews>
-                        <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Lucy" borderStyle="roundedRect" placeholder="Search Film" clearsOnBeginEditing="YES" minimumFontSize="24" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="iUj-cO-NmY" customClass="ModernTextField" customModule="FilmFlow" customModuleProvider="target">
+                        <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Search Film" clearsOnBeginEditing="YES" minimumFontSize="24" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="iUj-cO-NmY" customClass="ModernTextField" customModule="FilmFlow" customModuleProvider="target">
                             <rect key="frame" x="0.0" y="0.0" width="361" height="34"/>
                             <color key="backgroundColor" systemColor="systemGray4Color"/>
                             <fontDescription key="fontDescription" type="system" pointSize="16"/>
