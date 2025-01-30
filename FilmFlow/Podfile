@@ -1,0 +1,21 @@
+platform :ios, '13.0'
+use_modular_headers!
+
+target 'FilmFlow' do
+  # Firebase kütüphaneleri
+  pod 'Firebase/Core'
+  pod 'Firebase/RemoteConfig'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Messaging'
+
+  # Ağ işlemleri için
+  pod 'Alamofire', '~> 5.6'
+
+  # Add Kingfisher
+  pod 'Kingfisher'
+
+  # Ekran geçiş animasyonları için
+  pod 'Hero', '~> 1.6'
+
+  pod 'SwiftyGif'
+end
